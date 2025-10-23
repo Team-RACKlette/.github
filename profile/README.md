@@ -8,7 +8,7 @@ Our topics range from **low-level hardware tuning** to **algorithmic performance
 - Algorithms and complexity  
 - Processor and memory architecture  
 
-The team is supervised by **Prof. Torsten Hoefler** and advised by **Hussein**, who provide valuable guidance in preparation and during competitions.  
+The team is supervised by **Prof. Torsten Hoefler** and advised by **Hussein Harake**, who provide valuable guidance in preparation and during competitions.  
 
 💡 Our motivation:  
 We enjoy exploring performance across the full stack, turning theory into practice, and learning from real-world supercomputing environments such as **CSCS** in Lugano.  
